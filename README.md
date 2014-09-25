@@ -1,7 +1,7 @@
 WGConnectability
 ================
 
-Simple library for sending http pings in objC
+Simple library for sending tcp pings in objC
 ---------------------------------------------
 
 example code to check connectability to Facebook:
